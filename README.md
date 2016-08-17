@@ -1,4 +1,5 @@
-# cudaDictionary
-translate text into dictionary with indexes
+# cuda_text_dictionary
 
-A personal project. It is not usable.
+Parse text into dictionary of indexes with CUDA.
+
+A personal project. Not usable.
