@@ -1,4 +1,4 @@
-# cuda_text_dictionary
+# cuda-text-dictionary
 
 Parse text into dictionary of indexes with CUDA.
 
